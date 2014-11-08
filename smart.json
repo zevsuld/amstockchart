@@ -1,0 +1,9 @@
+{
+  "name": "amcharts",
+  "description": "Meteor package for AmStockCharts free distribution",
+  "homepage": "https://github.com/zevsuld/amstockchart",
+  "author": "zevsuld",
+  "version": "0.0.1",
+  "git": "https://github.com/zevsuld/amstockchart.git",
+  "packages": {}
+}
